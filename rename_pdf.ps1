@@ -1,4 +1,4 @@
-# filename: rename_tifs.ps1
+# filename: rename_pdf.ps1
  # PowerShell script to rename multiple PDFs within a folder to a name that increments by 1
 
 # ask user for input
